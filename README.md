@@ -40,7 +40,9 @@ Nessa ¨Página¨ o usuário poderá ver o que tem em seu carrinho e realizar a 
 ### Project Description
 
 ##### Página inicial
-**print**
+
+![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/f9b16f8d0db361f342ac590a6b044a05fe4b5caf/principal.png)
+
 Área inicialmente acessada por todos os usuários, que podem ir direto ver os produtos ou fazer login, como no caso dos admnistradores.
 
 ##### Login
