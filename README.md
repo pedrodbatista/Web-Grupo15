@@ -49,6 +49,8 @@ Expandiremos sobre as páginas principais e suas funcionalidades.
 
 ![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/f9b16f8d0db361f342ac590a6b044a05fe4b5caf/principal.png)
 
+[Link para preview da página em html](https://htmlpreview.github.io/?https://github.com/pedrodbatista/Web-Grupo15/blob/12704a07d84dc8657597752f71e5e5877b5f9b8b/TRAB_loja_oline/main.html)
+
 Área inicialmente acessada por todos os usuários, que podem ir direto ver os produtos ou fazer login, como no caso dos admnistradores.
 
 ##### Login
@@ -60,6 +62,8 @@ Caso o usuário não tenha conta, pode registrar-se.
 ##### Produtos
 
 ![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/5f1129cd0f0a23b00c3322e4ed4d8b4bd9f1c990/produtos.png)
+
+[Link do preview](https://htmlpreview.github.io/?https://github.com/pedrodbatista/Web-Grupo15/blob/12704a07d84dc8657597752f71e5e5877b5f9b8b/TRAB_loja_oline/glasses.html)
 
 Feito o login, o usuário pode adicionar os produtos ao carrinho, já o administrador tem acesso ao estoque, podendo fazer alterações.
 
