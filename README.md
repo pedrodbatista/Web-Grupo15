@@ -72,6 +72,7 @@ São mostrados os produtos que foram adicionados, e para concluir a compra, o cl
 ##### Página do cliente
 
 ![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/13d590dde09b888772b98728d891059ca7cec727/user.png)
+
 Após fazer o login, o usuário pode revisar suas informações, assim como ver seu histórico de compras.
 
 ##### Página do administrador
