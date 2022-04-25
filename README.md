@@ -8,7 +8,7 @@
 - João Pedro Matos de Deus 12677492
 
 ### Requirements
-Este projeto se trata do desenvolvimento de um site de uma loja online de óculos, nesta primeira entrega, será apresentada a estrutura básica do site a partir de modelos estáticos de todas as páginas, assim como os arquivos HTML/CSS da página inicial e de 2 outras páginas****.
+Este projeto se trata do desenvolvimento de um site de uma loja online de óculos, nesta primeira entrega, será apresentada a estrutura básica do site a partir de modelos estáticos de todas as páginas, assim como os arquivos HTML/CSS da página inicial, da página dos produtos e do About Us.
 
 O site terá 2 interfaces principais, a dos clientes e a dos administradores, ambos entram na mesma página inicial e após efetuar o login é feita a difrenciação.
 
