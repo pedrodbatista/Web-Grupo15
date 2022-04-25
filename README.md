@@ -39,6 +39,12 @@ Nessa ¨Página¨ o usuário poderá ver o que tem em seu carrinho e realizar a 
 
 ### Project Description
 
+A estrutura do site está apresentada no fluxograma abaixo, com os caminhos representando os links dentro de cada página e para onde eles levam.
+
+![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/f72b56f012a835c35d8b7642196964a08376dfd2/fluxograma.png)
+
+Expandiremos sobre as páginas principais e suas funcionalidades.
+
 ##### Página inicial
 
 ![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/f9b16f8d0db361f342ac590a6b044a05fe4b5caf/principal.png)
