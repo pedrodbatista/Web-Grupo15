@@ -59,7 +59,7 @@ Caso o usuário não tenha conta, pode registrar-se.
 
 ##### Produtos
 
-![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/38e6d68c6330d21f9e72144756d72e6237911659/produtos.png)
+![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/5f1129cd0f0a23b00c3322e4ed4d8b4bd9f1c990/produtos.png)
 
 Feito o login, o usuário pode adicionar os produtos ao carrinho, já o administrador tem acesso ao estoque, podendo fazer alterações.
 
