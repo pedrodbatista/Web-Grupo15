@@ -61,7 +61,7 @@ Caso o usuário não tenha conta, pode registrar-se.
 
 ![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/38e6d68c6330d21f9e72144756d72e6237911659/produtos.png)
 
-Feito o login, o usuário pode adicionar os produtos ao carrinho, já o admnistrador tem acesso ao estoque, podendo fazer alterações.
+Feito o login, o usuário pode adicionar os produtos ao carrinho, já o administrador tem acesso ao estoque, podendo fazer alterações.
 
 ##### Carrinho
 
@@ -76,6 +76,8 @@ São mostrados os produtos que foram adicionados, e para concluir a compra, o cl
 Após fazer o login, o usuário pode revisar suas informações, assim como ver seu histórico de compras.
 
 ##### Página do administrador
+
+Após fazer o login, o administrador tem no cabeçalho superior de sua página 3 botões: Register Admin, Customers e Inverntory.
 
 ![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/482291d8671120891594acd589832f928b1daca7/admin.png)
 
