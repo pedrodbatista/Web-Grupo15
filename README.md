@@ -46,7 +46,9 @@ Nessa ¨Página¨ o usuário poderá ver o que tem em seu carrinho e realizar a 
 Área inicialmente acessada por todos os usuários, que podem ir direto ver os produtos ou fazer login, como no caso dos admnistradores.
 
 ##### Login
-**print**
+
+![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/482291d8671120891594acd589832f928b1daca7/login.png)
+
 Caso o usuário não tenha conta, pode registrar-se.
 
 ##### Produtos
@@ -66,7 +68,9 @@ São mostrados os produtos que foram adicionados, e para concluir a compra, o cl
 Após fazer o login, o usuário pode revisar suas informações, assim como ver seu histórico de compras.
 
 ##### Página do administrador
-**print**
+
+![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/482291d8671120891594acd589832f928b1daca7/admin.png)
+
 Os administradores podem cadastrar novos administradores, assim como interagir com a parte do estoque, adicionando ou retirando produtos, alterar preços e descrições, além de checar quantos e quais itens foram vendidos.
 
 ### Comments About The Code
