@@ -50,11 +50,15 @@ Nessa ¨Página¨ o usuário poderá ver o que tem em seu carrinho e realizar a 
 Caso o usuário não tenha conta, pode registrar-se.
 
 ##### Produtos
-**print**
+
+![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/38e6d68c6330d21f9e72144756d72e6237911659/produtos.png)
+
 Feito o login, o usuário pode adicionar os produtos ao carrinho, já o admnistrador tem acesso ao estoque, podendo fazer alterações.
 
 ##### Carrinho
-**print**
+
+![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/38e6d68c6330d21f9e72144756d72e6237911659/carrinho.png)
+
 São mostrados os produtos que foram adicionados, e para concluir a compra, o cliente deve inserir o endereço de entrega e as informações de pagamento.
 
 ##### Página do cliente
