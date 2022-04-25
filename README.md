@@ -14,11 +14,11 @@ O site terá 2 interfaces principais, a dos clientes e a dos administradores, am
 
 ##### Página inicial
 
-Sendo a parte central do site, possuí links para todas as diferentes seções, como a área de login, para os produtos disponíveis para compra, acesso ao carrinho de compras, além disso se tem um rodapé com links que direcionam para todas essas mesmas paginas, além das redes sociais da loja, uma pagina que fala sobre a empresa e uma pagina que da suporte ao cliente.
+Sendo a parte central do site, possuí links para todas as diferentes seções, como a área de login, para os produtos disponíveis para compra, acesso ao carrinho de compras, além disso se tem um rodapé com links que direcionam para todas essas mesmas páginas, além das redes sociais da loja, uma página que fala sobre a empresa e uma página que da suporte ao cliente.
 
 ##### Área de login/sign in
 
-Na mesma tela é possível criar a conta ou já fazer o login, tanto os usuários quanto os admnistradores fornecem nome, email, telefone e criam um id. Para realizar uma compra será necessário adicionar um endereço de entrega. Ao realizar o login o usário terá acesso a diferentes tipod de opção dependenedo do tipo de conta que for acessada. No caso do admin a tool bar terá opções de registrar (Produtos, clientes ou outro administrador), acesso inventario da loja, podendo alterar, adicionar, remover ou consultar algum produto. Para contas de clientes, o usuario poderá acessar a opcao de ver o seu perfil, assim podendo alterar dados, checar seus dados, assim como o histórico de comrpa.
+Na mesma tela é possível criar a conta ou já fazer o login, tanto os usuários quanto os admnistradores fornecem nome, email, telefone e criam um id. Para realizar uma compra será necessário adicionar um endereço de entrega. Ao realizar o login o usário terá acesso a diferentes tipod de opção dependenedo do tipo de conta que for acessada. No caso do admin a tool bar terá opções de registrar (Produtos, clientes ou outro administrador), acesso inventário da loja, podendo alterar, adicionar, remover ou consultar algum produto. Para contas de clientes, o usuario poderá acessar a opcao de ver o seu perfil, assim podendo alterar dados, checar seus dados, assim como o histórico de comrpa.
 
 ##### Produtos
 
