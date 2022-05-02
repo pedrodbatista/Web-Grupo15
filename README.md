@@ -91,7 +91,7 @@ Os administradores podem cadastrar novos administradores, assim como interagir c
 
 ##### Informações salvadas no servidor
 
-Serão salvos os perfis dos usuários e administradores, com as informações de nome, email, id e telefone. Além disso, o estoque dos produtos com seus valores e quantidades.
+Serão salvos os perfis dos usuários e administradores, com as informações de nome, email, id, telefone e no caso do usuário o endereço e a informação de pagamento. Além disso, o estoque dos produtos com seus valores e quantidades.
 
 
 ### Comments About The Code
