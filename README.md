@@ -43,6 +43,8 @@ A estrutura do site está apresentada no fluxograma abaixo, com os caminhos repr
 
 ![alt text](https://github.com/pedrodbatista/Web-Grupo15/blob/f72b56f012a835c35d8b7642196964a08376dfd2/fluxograma.png)
 
+[Link para o projeto no figma](https://www.figma.com/file/CJVTRnRFsZI2NqqxcmN9yo/Tropical-Glasses?node-id=0%3A1)
+
 Expandiremos sobre as páginas principais e suas funcionalidades.
 
 ##### Página inicial
