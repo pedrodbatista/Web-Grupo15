@@ -89,6 +89,11 @@ Após fazer o login, o administrador tem no cabeçalho superior de sua página 3
 
 Os administradores podem cadastrar novos administradores, assim como interagir com a parte do estoque, adicionando ou retirando produtos, alterar preços e descrições, além de checar quantos e quais itens foram vendidos.
 
+##### Informações salvadas no servidor
+
+Serão salvos os perfis dos usuários e administradores, com as informações de nome, email, id e telefone. Além disso, o estoque dos produtos com seus valores e quantidades.
+
+
 ### Comments About The Code
 
 ### Test Plan
