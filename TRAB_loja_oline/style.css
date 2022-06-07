@@ -53,23 +53,18 @@ p{
 }
 #imagens{
     margin-top: 80px;
-    display:flex;
-    justify-content: space-around;
-    
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-content: center; 
 }
 
-#col1{
+.col{
     padding:  15px 30px 30px 30px;
     background-color: #c4c4c4;
+    cursor:pointer;
 }
-#col2{
-    padding:  15px 30px 30px 30px;
-    background-color: #c4c4c4;
-}
-#col3{
-    padding:  15px 30px 30px 30px;
-    background-color: #c4c4c4;
-}
+
 #bras{
     display:flex;
     justify-content: space-around;
@@ -81,35 +76,26 @@ p{
     font-size: 40px;
 }
 
-#bra1{
+.bra{
     padding: 0px 100px;
 }
-#bra2{
-    padding: 0px 100px;
-}
-#bra3{
-    padding: 0px 100px; 
-}
-#bra4{
-    padding: 0px 100px;
-}
+
 #Footer{
     display:flex;
     background-color: #c4c4c4;
+    align-items: center;
 }
 .btnF{
     border: none;
-    padding: 30px 30px;
     background-color: #c4c4c4;
     cursor:pointer;
     transition: background .3s;
     border-radius: 6px;
     margin: 0px 53px;
     font-size: 20px;
-    display:flexbox;
-    justify-content: space-around;
     font-family: 'Bebas Neue', cursive;
 }
+
 #about_us{
     background-color: #464646;
     padding-bottom: 1000px;
