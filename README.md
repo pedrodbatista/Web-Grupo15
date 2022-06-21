@@ -1,11 +1,16 @@
-# Milestone 1 - Project Report
-## Store Mockups
+# JP²V Watches - Online Store Development
 
 ### Group 15 
 - Pedro Calciolari Jardim 11233668
 - Pedro Dias Batista 10768909
 - Vitor Laperriere de Faria 12689085
-- João Pedro Matos de Deus 12677492
+- João Pedro Matos de Deus 12677492 
+
+### Milestone 2 - ![Relatório](https://github.com/jjonhy/Web-Grupo15#milestone-2--project-report)
+
+# Milestone 1 - Project Report
+## Store Mockups
+
 
 ### Requirements
 Este projeto se trata do desenvolvimento de um site de uma loja online de óculos, nesta primeira entrega, será apresentada a estrutura básica do site a partir de modelos estáticos de todas as páginas, assim como os arquivos HTML/CSS da página inicial, da página dos produtos e do About Us.
@@ -105,3 +110,34 @@ Serão salvos os perfis dos usuários e administradores, com as informações de
 ### Problems
 
 ### Comments
+
+# Milestone 2 -Project Report
+## Client side functionalities
+
+
+### Requirements
+Seguindo a estrutura básica apresentada no Milestone 1, porém atualizada para uma loja de relógios, nessa etapa desenvolveremos todas as funcionalidades do Cliente, usando o Framework React, serão apresentados todos os arquivos HTML/CSS e Javascript.
+
+
+
+### Project Description
+
+
+### Comments About The Code
+No comments.
+### Test Plan
+
+### Test Results
+
+### Build Procedures
+Após o download dos arquivos, usar os comandos:
+
+"npm install"
+
+"npm start"
+
+### Problems
+No problems.
+
+### Comments
+No comments.
